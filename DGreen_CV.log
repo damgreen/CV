@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  2 JAN 2014 21:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  21 JAN 2014 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -342,26 +342,26 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (16.27759pt too wide) in paragraph at lines 420--421
+Overfull \hbox (16.27759pt too wide) in paragraph at lines 405--406
 []\OT1/cmr/m/n/10 Build ties and in-ter-ac-tions with Mid-Atlantic His-tor-i-ca
 lly Black Col-leges and Uni-ver-si-ties
  []
 
-
+[2] 
 AED: lastpage setting LastPage
-[2]
+[3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 468.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 468.
  (./DGreen_CV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 468.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 468.
 Package rerunfilecheck Info: File `DGreen_CV.out' has not changed.
-(rerunfilecheck)             Checksum: D2182A8D4C020C8FC4B941195EA86593;560.
+(rerunfilecheck)             Checksum: 3B9DD5249687FE6C265662D8C7CD02A0;557.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 468.
  ) 
 Here is how much of TeX's memory you used:
- 5891 strings out of 493315
- 88029 string characters out of 6137904
+ 5892 strings out of 493315
+ 88035 string characters out of 6137904
  184274 words of memory out of 5000000
  9302 multiletter control sequences out of 15000+600000
  5200 words of font info for 19 fonts, out of 8000000 for 9000
@@ -371,12 +371,13 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on DGreen_CV.pdf (2 pages, 92500 bytes).
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on DGreen_CV.pdf (3 pages, 100354 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
